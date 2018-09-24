@@ -4,8 +4,7 @@ This is the sample application where user can get the list of deliveries and dis
 
 When you launch the the App screen looks like below:
 
-![Alt text](https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120000.jpeg "Optional title")
-
-When you click on the list item the result will be :
-
-![Alt text](https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120008.jpeg "Optional title")
+<p align="center">
+  <img width="360" height="900" src="https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120000.jpeg"> 
+  <img width="360" height="900" src="https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120008.jpeg ">
+</p>
