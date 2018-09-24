@@ -5,6 +5,6 @@ This is the sample application where user can get the list of deliveries and dis
 When you launch the the App screen looks like below:
 
 <p align="center">
-  <img width="360" height="900" src="https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120000.jpeg"> 
-  <img width="360" height="900" src="https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120008.jpeg ">
+  <img width="400" height="900" src="https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120000.jpeg"> 
+  <img width="400" height="900" src="https://github.com/Sanjeev143/AmazeDeliver/blob/master/Screenshot_20180924-120008.jpeg ">
 </p>
